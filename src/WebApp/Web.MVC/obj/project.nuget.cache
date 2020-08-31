@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXxNz480r4JMBZW2ypmGbyIW7IdX7sKk8TGgPCiK5C0ZfulhYeDbI6o9jJ/VAklcIZzs/MCq9z7TPnJU9dVSUg==",
+  "success": true,
+  "projectFilePath": "D:\\github\\pocs\\productsOnGitHub\\src\\WebApp\\Web.MVC\\Web.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumit.Ghosh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\bin\Debug\netcoreapp3.1\Product.API.exe
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\obj\Debug\netcoreapp3.1\Product.API.csprojAssemblyReference.cache
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\obj\Debug\netcoreapp3.1\Product.API.AssemblyInfoInputs.cache
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\obj\Debug\netcoreapp3.1\Product.API.AssemblyInfo.cs
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\obj\Debug\netcoreapp3.1\Product.API.RazorTargetAssemblyInfo.cache
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\obj\Debug\netcoreapp3.1\staticwebassets\Product.API.StaticWebAssets.Manifest.cache
+D:\github\pocs\productsOnGitHub\src\Services\Product\Product.API\obj\Debug\netcoreapp3.1\staticwebassets\Product.API.StaticWebAssets.xml
